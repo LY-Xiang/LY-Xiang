@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![LY-Xiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=LY-Xiang&show_icons=true&theme=transparent&locale=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LY-Xiang&layout=compact&theme=transparent&locale=cn)
-![LY-Xiang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LY-Xiang)
+<!--![LY-Xiang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LY-Xiang)-->
