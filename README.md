@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **LY-Xiang/LY-Xiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| :-: |
-| ![LY-Xiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=LY-Xiang&show_icons=true&theme=transparent&locale=cn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LY-Xiang&layout=compact&langs_count=20&theme=transparent&locale=cn) |
-| ![LY-Xiang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LY-Xiang&theme=minimal&locale=cn) |
-| <!--![LY-Xiang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LY-Xiang)--> |
+
+## stats
+
+![LY-Xiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=LY-Xiang&show_icons=true&theme=transparent&locale=cn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LY-Xiang&layout=compact&langs_count=20&theme=transparent&locale=cn)
+
+![LY-Xiang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LY-Xiang&theme=minimal&locale=cn)
+
+<!--![LY-Xiang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LY-Xiang)-->
